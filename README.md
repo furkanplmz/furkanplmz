@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @furkanplmz
-- 👀 I’m interested in C#, Java, Python, React and Angular
+- 👀 I’m interested in C#, Java, Python, Spring and React
 - 🌱 I’m currently learning React Native 
 - 📫 linkedin/furkanplmz
 
